@@ -1,4 +1,4 @@
-# Mini Projet INFO834
+# Simulation à événements discrets
 > Simulation à événement discret d'une épidémie dans un village en quarantaine
 
 ### Description du projet
